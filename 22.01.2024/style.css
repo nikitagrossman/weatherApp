@@ -1,0 +1,19 @@
+.interest{
+    display: none;
+}
+.card{
+    display: none;
+}
+.list{
+    display: none;
+}
+.btn{
+    color: aliceblue;
+    margin-left: 10px;
+}
+.logo{
+    color:aliceblue;
+}
+.add-to-favorites{
+color: black;
+}
